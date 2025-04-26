@@ -2,9 +2,9 @@
 
 :root{
     --orange:#F79F1F;
-    --text-color-1:#334;
+    --text-color-1:#F79F1F(248, 245, 55);
     --text-color-2:#777;
-    --bg-color-1:#fff;
+    --bg-color-1:#2c3930;
     --bg-color-2:#eee;
     --box-shadow:0 .5rem 1.5rem rgba(0,0,0,.1);
 }
